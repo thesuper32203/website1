@@ -1,0 +1,28 @@
+.maps{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+    
+    
+    min-height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5em;
+
+}
+
+.box{
+    max-width: 600px;
+
+
+}
+
+h1{
+    font-size: 5em;
+}
+
+p{
+    font-size: 1.2em;
+}
