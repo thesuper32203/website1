@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins';
+ font-family: Roboto, Arial, sans-serif;
     
     
-    min-height: 85vh;
+    min-height: 70vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -15,8 +15,6 @@
 
 .box{
     max-width: 600px;
-
-
 }
 
 h1{
@@ -26,3 +24,4 @@ h1{
 p{
     font-size: 1.2em;
 }
+
